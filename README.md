@@ -27,15 +27,15 @@ And of course for the RetroArch/Libretro team : "http://www.libretro.org/"
 
 ```
 L2  Show/Hide statut
-R2  Sound on/off
-L   Toggle Num Joy .
-R   Change Mouse speed 1 to 6 . (for gui and emu)
+R2  
+L   Mouse Speed Down (Min 1) . (for gui and emu)
+R   Mouse Speed Up (Max 6) . (for gui and emu)
 SEL Toggle Mouse/Joy mode .
-STR Show/Hide vkbd . 
-A   Fire/Mouse btn A / Valid key in vkbd
-B   Mouse btn B
+STR Show/Hide Virtual Keyboard (vkbd) . 
+A   Joystick Fire 1/Mouse 1/vkbd Key Pressed
+B   Joystick Fire 2/Mouse 2
 X    
-Y   E-UAE GUI
+Y   
 ```
 
 ## Disk images, WHDLoad and M3U support
